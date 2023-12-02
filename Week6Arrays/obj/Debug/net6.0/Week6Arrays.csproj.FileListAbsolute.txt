@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\bin\Debug\net6.0\Week6Arrays.exe
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\bin\Debug\net6.0\Week6Arrays.deps.json
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\bin\Debug\net6.0\Week6Arrays.runtimeconfig.json
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\bin\Debug\net6.0\Week6Arrays.dll
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\bin\Debug\net6.0\Week6Arrays.pdb
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\obj\Debug\net6.0\Week6Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\obj\Debug\net6.0\Week6Arrays.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\obj\Debug\net6.0\Week6Arrays.AssemblyInfo.cs
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\obj\Debug\net6.0\Week6Arrays.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\obj\Debug\net6.0\Week6Arrays.dll
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\obj\Debug\net6.0\refint\Week6Arrays.dll
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\obj\Debug\net6.0\Week6Arrays.pdb
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\obj\Debug\net6.0\Week6Arrays.genruntimeconfig.cache
+C:\Users\user\source\repos\Week6Arrays\Week6Arrays\obj\Debug\net6.0\ref\Week6Arrays.dll
